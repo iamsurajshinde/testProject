@@ -1,8 +1,8 @@
 {
-    "status": 200,
-    "message" : "success",
-    "response: : {
-        "empId" : 1,
-        "name" : "Ganesh"
-    }
+  "status": 200,
+  "message": "success",
+  "response": {
+    "empId": 1,
+    "name": "Ganesh"
+  }
 }
